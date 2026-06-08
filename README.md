@@ -1,41 +1,50 @@
-# Hi there, I'm hank92312 👋
+# Hi there, I'm Hank (蔡昇宏) 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=hank92312&color=blue)
-
-### 🚀 從部隊指揮官到全端技術者 (From Army Captain to Tech Enthusiast)
-
-我是一名位於台灣高雄的跨領域開發者。擁有 10 年的軍官歷練，這段經歷培養了我**高度的紀律、冷靜的邏輯分析能力，以及使命必達的執行力**。如今，我帶著這些軟實力全力投入 IT 領域，專注於 Python 自動化開發、資料庫管理 (SQL) 以及數據分析。
-
-我相信「技術的價值在於解決真實世界的問題」。我不僅學習語法，更致力於開發能提升工作效率的自動化工具。
-
-### 🛠️ 目前的技術棧 (Tech Stack)
-
-* **程式語言與資料庫**：
-  * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 專注於自動化腳本、爬蟲與資料分析
-  * ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 關聯式資料庫設計與管理
-* **版本控制與工具**：
-  * ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-  * ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-* **多元數位技能**：
-  * 擁有社群媒體經營與影音圖文編輯實戰經驗，具備良好的數位內容敏銳度。
-
-### 🌟 精選專案 (Featured Projects)
-
-* 📚 **[HackMD Book Batch Downloader](https://github.com/hank92312/HackMDbackup)**
-  * **簡介**：針對知識管理痛點開發的 Python 自動化工具。利用 Regex 智慧解析 HackMD 書本目錄，並透過 `requests` 批次爬取與下載整套 Markdown 筆記。
-  * **亮點**：內建防呆機制、UI 資料夾選擇視窗 (`tkinter`) 與優雅中斷防護，並已封裝為獨立 `.exe` 執行檔。
-
-### 🌱 關於我的一些小事 (Fun Facts)
-
-* 📊 除了寫 Code，我也熱衷於研究全球國際情勢的數據與趨勢。
-* 🎮 我是PC GAME的資深玩家！
-* ✈️ 熱愛透過旅行與閱讀開拓視野。
-* 🎞️ 電影世界是我觀賞世界另一角度
-
-### 📫 如何聯繫我 (Contact Me)
-
-* 📧 Email: [hank92312@gmail.com]
-* 💼 LinkedIn: [www.linkedin.com/in/hank92312]
+一座橫跨「專案管理/領導」與「AI軟體開發」的數位橋樑。擁有 10 年軍官幕僚與團隊管理歷練，現專注於 **AI 應用規劃**、**大數據分析** 與 **前後端網頁開發**。擅長以嚴謹的邏輯思維拆解商業痛點，並透過技術實作數據驅動的解決方案。
 
 ---
-⭐️ *Thanks for visiting! 保持熱情，持續學習。*
+
+## 🪖 關於我 | About Me
+- 🚀 **轉職契機**：從陸軍上尉退伍後，深感數據與 AI 對未來商業的影響力，毅然投入全職 AI 數據與系統分析職訓，成功建立全端開發與數據科學硬實力。
+- 💼 **核心優勢**：10 年軍職（5年管理 + 5年高階幕僚）淬鍊出極高的抗壓性、對規範（SOP）的絕對遵循、多方利害關係人協調與強大的危機處理能力。
+- 🎯 **職涯目標**：尋求 **AI 應用規劃師 / 技術 PM** 或 **軟體工程師** 的挑戰機會，期待將管理大腦與技術武器完美結合。
+
+---
+
+## 🛠️ 技術棧 | Tech Stack
+
+| 領域 | 技術與工具 |
+| :--- | :--- |
+| **程式語言 / Web** | `Python`, `C#`, `SQL`, `HTML5`, `CSS3` |
+| **數據分析 & AI** | `Pandas`, `Matplotlib`, `Scikit-learn`, `Prompt Engineering`, `LLM APIs` |
+| **網頁框架 & 前端**| `Bootstrap`, 前後端 API 功能整合與開發 |
+| **資料庫 & 開發工具**| `SQL Server`, `Git / GitHub`, `VS Code` |
+
+---
+
+## 📊 精選專案 | Featured Projects
+
+### 📈 [Savestock — 財務資產與股利追蹤系統](https://github.com/hank92312)
+- **專案描述**：針對個人投資痛點開發的財務追蹤專案，旨在精確計算股票歷史數據、預估股利發放與投資報酬率（ROI）。
+- **核心技術**：`Python`, `Pandas` 資料清洗與統計分析, `Matplotlib` 數據視覺化。
+- **專案亮點**：將複雜的金流與扣款機制模組化，提供直觀的數據洞察，體現數據驅動決策（Data-Driven）的實作。
+
+### 📝 [HackMD Batch Uploader — 批次文件自動化上傳工具](https://github.com/hank92312)
+- **專案描述**：為了解決大量 Markdown 筆記與技術文件備份而開發的自動化工具，大幅提升知識管理效率。
+- **核心技術**：`Python`, `API 整合`, 自動化腳本開發。
+- **專案亮點**：體現「流程自動化（SOP Automation）」的幕僚思維，大幅減少重複性人工操作時間。
+
+---
+
+## 📜 專業認證與培訓 | Certifications & Training
+- 🎖️ **經濟部 iPAS AI 應用規劃師** 專業人員認證
+- 🏅 **CSF TQC+ 專業設計人才認證** (預計 2026.06 考取)
+- 🎓 **AI 數據分析與系統分析** 全職專業職訓班結業
+
+---
+
+## 📫 聯絡我 | Connect with Me
+- **Email**: `hank92312@gmail.com`
+
+
+---
